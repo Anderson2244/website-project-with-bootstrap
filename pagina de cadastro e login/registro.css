@@ -1,13 +1,14 @@
 .gradient-custom-2 {
-    /* fallback for old browsers */
-    background: #fccb90;
-    
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
-    
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+    background: rgb(2,0,36);
+    background: linear-gradient(349deg, rgba(2,0,36,1) 20%, rgba(0,158,167,1) 100%);
     }
+.col-lg-6{
+    background-color: #c7d5e0;
+}
+
+.container my-5{
+    background-color: #303030;
+}
     
     @media (min-width: 768px) {
     .gradient-form {
