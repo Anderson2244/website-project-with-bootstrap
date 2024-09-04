@@ -6,9 +6,6 @@
     background-color: #c7d5e0;
 }
 
-.container my-5{
-    background-color: #303030;
-}
     
     @media (min-width: 768px) {
     .gradient-form {
