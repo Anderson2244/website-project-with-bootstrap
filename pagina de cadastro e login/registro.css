@@ -6,7 +6,11 @@
     background-color: #c7d5e0;
 }
 
-    
+html{
+     
+    background-color: rgba(0, 0, 0, 0.856)
+}
+
     @media (min-width: 768px) {
     .gradient-form {
     height: 100vh !important;
