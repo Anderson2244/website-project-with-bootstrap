@@ -1,0 +1,19 @@
+section, html{
+     
+    background-color: rgba(0, 0, 0, 0.856);
+    color: rgba(255, 255, 255, 0.644);
+    
+}
+
+.aboutUs{
+    display: flex;
+}
+.textAbout {
+    color: aliceblue;
+}
+
+.imgAbout {
+   width: 40rem; 
+}
+
+
